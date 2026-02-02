@@ -1,0 +1,10 @@
+{
+  "author": ["taeyoon_0526"],
+  "name": "dnd_automod",
+  "short": "AutoMod-based DND mention blocker for a target user.",
+  "description": "Creates/toggles a Discord AutoMod rule to block direct mentions of a specific user ID.",
+  "install_msg": "Loaded dnd_automod. Use [p]dnd for controls.",
+  "requirements": [],
+  "tags": ["automod", "moderation", "dnd"],
+  "min_bot_version": "3.5.0"
+}
